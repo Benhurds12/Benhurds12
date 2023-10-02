@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I am Ben Hur!
 IT student<br>Currently Learning more about Dart, fluter and tools like docker and kubernetes.<br>Interest in areas development and also cyber security<br>
 
 
