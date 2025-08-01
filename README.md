@@ -1,5 +1,5 @@
 # Hello, I'm Ben Hur!
-Bachelor of Information Technology <br>Software engineering student passionate about programing<br>Currently Learning more about Dart, fluter and tools like docker and kubernetes.<br>Interest in development, cyber security and also QA <br>
+Bachelor of Information Technology <br>Software engineering student passionate about programing<br>Currently Learning more about Dart, fluter and tools like docker and kubernetes.<br>Interest in development, QA and also cyber security<br>
 
 
 ## 🌐 Socials:
