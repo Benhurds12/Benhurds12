@@ -1,5 +1,8 @@
 # Hello, I'm Ben Hur!
-Bachelor of Information Technology <br>Software engineering student passionate about programing<br>Currently Learning more about Dart, fluter and tools like docker and kubernetes.<br>Interest in development, QA and also cyber security<br>
+Bachelor of Information Technology 
+<br>Software engineering student. 
+<br>QA Analyst with experience in software testing and freelance software development. 
+<br>Passionate about technology, software engineering, and continuous learning.
 
 
 ## 🌐 Socials:
